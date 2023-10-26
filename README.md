@@ -319,7 +319,7 @@ After entering the database, if  $<database name> = postgres$ ,we can see `poset
     order by themes.name;
     ```
     
-    - output screen shot: (total: 586 rows)
+    - output screen shot: (total: 568 rows)
     
     ![截圖 2023-10-26 下午2.28.25.png](112-1%20Database%20-%20HW1%20e91b7e399bc44552a3038ff7bcbc7a16/%25E6%2588%25AA%25E5%259C%2596_2023-10-26_%25E4%25B8%258B%25E5%258D%25882.28.25.png)
     
