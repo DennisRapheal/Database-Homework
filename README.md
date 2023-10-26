@@ -1,6 +1,5 @@
 # 112-1 Database - HW1
 
-[GitHub - DennisRapheal/Database-Homework: The requirement of the course introduction to database](https://github.com/DennisRapheal/Database-Homework#output-csv-files-link)
 
 [Set up Postgres on mac](https://www.notion.so/112-1-Database-HW1-e91b7e399bc44552a3038ff7bcbc7a16?pvs=21)
 
